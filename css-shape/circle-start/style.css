@@ -1,0 +1,15 @@
+
+.shape-circle {
+    
+    shape-outside: circle();
+   
+    width: 300px;
+    height: 300px;
+    float: left;
+    
+/*    background-color: blue;*/
+    background-image: url(assets/img/teerasej.png);
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    
+}
