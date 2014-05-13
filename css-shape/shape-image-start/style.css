@@ -1,0 +1,15 @@
+
+.shape-image {
+    
+    shape-outside: url(cone.png);
+    shape-margin: 20px;  
+   
+    width: 484px;
+    height: 427px;
+    float: left;
+    
+    
+    background-image: url(cone.png);
+    background-repeat: no-repeat;
+    
+}
